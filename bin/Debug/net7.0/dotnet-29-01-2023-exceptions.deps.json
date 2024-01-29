@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "dotnet-29-01-2023-exceptions/1.0.0": {
+        "runtime": {
+          "dotnet-29-01-2023-exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dotnet-29-01-2023-exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

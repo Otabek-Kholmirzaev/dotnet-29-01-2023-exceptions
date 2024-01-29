@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\bin\Debug\net7.0\dotnet-29-01-2023-exceptions.exe
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\bin\Debug\net7.0\dotnet-29-01-2023-exceptions.deps.json
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\bin\Debug\net7.0\dotnet-29-01-2023-exceptions.runtimeconfig.json
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\bin\Debug\net7.0\dotnet-29-01-2023-exceptions.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\bin\Debug\net7.0\dotnet-29-01-2023-exceptions.pdb
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.AssemblyInfo.cs
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\refint\dotnet-29-01-2023-exceptions.dll
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.pdb
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\dotnet-29-01-2023-exceptions.genruntimeconfig.cache
+C:\Users\User\Desktop\learn-dotnet\dotnet-29-01-2023-exceptions\obj\Debug\net7.0\ref\dotnet-29-01-2023-exceptions.dll
